@@ -1,0 +1,14 @@
+{
+  "name": "Socket",
+  "version": "1.0.0",
+  "description": "Socket Deskop Application",
+  "main": "index.js",
+  "author": "Inayat",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron index.js"
+  },
+  "dependencies": {
+    "electron": "^27.1.0"
+  }
+}
